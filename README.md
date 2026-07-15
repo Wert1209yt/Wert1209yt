@@ -1,15 +1,15 @@
-# Im am PHP backend developer
+# PHP backend developer
 >[!TIP]
 > Unfortunately, I'm developing it alone, but you can help the development by contributing! 🙂
 
 ## Stack:
 - PHP 8.1+
   - Professional work with PHP, and delicate attention to detail with logic, foreseeing all possible outcomes of events. And I don't like frameworks because I like to control all the outputs and stuff.
-  - *Clean code*
   - OOP
   - Predis/phpredis
   - API integration
   - REST API
+  - XML
   - Twig
   - Composer
 - Redis
@@ -25,16 +25,15 @@
 
 ---
 
-# I old YouTube lover
+# I'm reviving old YouTube's Era
 
 I love the old YouTube, so I'm trying to revive it.
-### I currently working: 2017BackUs:
+### I currently working — 2017BackUs:
 - **Innertube API**
   - Old mobile apps (6v - 15v)
   - Old TV (Leanback)
-- hitchhiker 2017
+- Hitchhiker
 - Gdata
-- Polymer<br>
-**2017 is coming to 2026**<br>
-*and more... 💥*<br>
-**this project is insane!!!**
+- Polymer
+- Mobile web app
+- and more...
